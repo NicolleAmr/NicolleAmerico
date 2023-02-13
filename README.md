@@ -1,8 +1,8 @@
-# Oii eu sou a Nicolle 
+# Oii eu sou a Nicolle 😮
 
-- Atualmente curso o 3 Ensino Médio Técnico em Informática.
-- Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
-- Contate-me no email: americonicolle0@gmail.com
+- 📚 Atualmente curso o 3 Ensino Médio Técnico em Informática.
+- 💻 Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
+- 📧 Contate-me no email: americonicolle0@gmail.com
 
   <div>
       <a href="https://github.com/nicolleamerico"></a>

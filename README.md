@@ -6,7 +6,7 @@
 - 💻 Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
 
   <div align="center">
-    <a href="https://github.com/nicolleamerico/nicolleamerico/blob/851d2ba7da51fca5e92afe9cd8c3b6f30c55a65b/Curr%C3%ADculo%20-%20Nicolle%202.pdf">
+    <a href="https://github.com/nicolleamerico/nicolleamerico/blob/851d2ba7da51fca5e92afe9cd8c3b6f30c55a65b/Curr%C3%ADculo%20-%20Nicolle%202.pdf">Curriculo</a>
   </div>
 
   ##

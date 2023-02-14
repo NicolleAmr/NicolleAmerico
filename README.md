@@ -6,9 +6,7 @@
 - 💻 Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
 - 📧 Contate-me no email: americonicolle0@gmail.com
 
-  <div>
-    
-  </div>
+  ##
 
   <div align="center">
       <a href="https://github.com/nicolleamerico"></a>

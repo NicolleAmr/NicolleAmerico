@@ -4,7 +4,10 @@
 
 - 📚 Atualmente curso o 3 Ensino Médio Técnico em Informática.
 - 💻 Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
-- 📧 Contate-me no email: americonicolle0@gmail.com
+
+  <div align="center">
+    <a href="">
+  </div>
 
   ##
 
@@ -40,7 +43,7 @@
    <div align="center">
       <a href="mailto:americonicolle0@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
       <a href="https://wa.me/qr/VCBYI7TPZJS5P1"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-      <a href="https://www.linkedin.com/in/nicolle-americo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+      <a href="https://www.linkedin.com/in/nicolle-americo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">    </a>
    </div>
    
    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) 

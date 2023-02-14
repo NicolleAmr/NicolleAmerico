@@ -6,6 +6,10 @@
 - 💻 Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
 - 📧 Contate-me no email: americonicolle0@gmail.com
 
+  <div>
+    
+  </div>
+
   <div align="center">
       <a href="https://github.com/nicolleamerico"></a>
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolleamerico&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="">

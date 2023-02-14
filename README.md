@@ -1,5 +1,7 @@
 # Oii eu sou a Nicolle 😮
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CE5E80&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 - 📚 Atualmente curso o 3 Ensino Médio Técnico em Informática.
 - 💻 Estudando Front-end e Back-end, além de outras linguagens e programas de softwares.
 - 📧 Contate-me no email: americonicolle0@gmail.com
